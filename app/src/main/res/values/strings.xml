@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Space Team</string>
+    <string name="inputPseudo">Votre pseudo</string>
+    <string name="inputPassword">Votre mot de passe</string>
+    <string name="connexion">Se connecter</string>
+    <string name="forgetPassword">Mot de passe oublié ?</string>
+    <string name="joinRoomButton">Rejoinde un salon</string>
+    <string name="SocketConnected">Socket connected</string>
+    <string name="roomName">Vous n\'êtes connecté à aucun salon</string>
+    <string name="SocketDisconnected">Socket inactive</string>
+    <string name="noPseudoError">Vous n\'avez pas renseigner de pseudo</string>
+    <string name="ready">Prêt</string>
+    <string name="notReady">En attente...</string>
+    <string name="gameL1">Vers l\'infini et au delà !</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="looseTxt">Vous avez perdu :c</string>
+    <string name="scoreLabel">Votre score est de </string>
+    <string name="tryAgain">Réessayer</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/defaultMargin"
+    android:layout_marginRight="@dimen/defaultMargin"
+    android:layout_marginBottom="@dimen/minMargin"
+    android:background="?attr/colorButtonNormal"
+    android:orientation="horizontal"
+    android:padding="@dimen/defaultPadding">
+
+    <TextView
+        android:id="@+id/player_name"
+        android:layout_width="207dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/audiowide"
+        android:text="player_name"
+        android:textAlignment="center"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/player_state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/audiowide"
+        android:text="player_state"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+</LinearLayout>

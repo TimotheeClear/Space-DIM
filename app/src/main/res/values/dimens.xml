@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultPadding">8sp</dimen>
+    <dimen name="defaultMargin" >16sp</dimen>
+    <dimen name="defaultTxtSize">18sp</dimen>
+    <dimen name="MinTxtSize">12sp</dimen>
+    <dimen name="titleTxtSize">30sp</dimen>
+    <dimen name="bigPadding">16sp</dimen>
+    <dimen name="minMargin">8sp</dimen>
+    <dimen name="bigMargin">32sp</dimen>
+    <dimen name="bigTxtSize">24sp</dimen>
+</resources>
